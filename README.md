@@ -1,21 +1,7 @@
 <h1>Hi 👋, I'm Kadirov</h1>
 <p>A passionate Back-end developer.</p>
 <h3>🚀 Languages and Tools I Use</h3>
-<div align="center">
-  <!-- Заголовок с анимацией -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=Software%20Engineer%20%7C%20.NET%2FC%23&fontColor=FFFFFF&fontSize=40&fontAlign=50&fontAlignY=35&desc=Qurbonali%20Nazarov&descSize=25&descAlign=50&descAlignY=60&animation=fadeIn" />
-  
-  <!-- Добавлен отступ -->
-  <br />
 
-  <!-- Статистика GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nazarovqurbonali&show_icons=true&theme=react&hide_border=true&border_radius=10" width="60%" />
-
-  <br />
-
-  <!-- Статистика streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nazarovqurbonali&theme=react&hide_border=true&border_radius=10" width="60%" />
-</div>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/UjVfEkKY) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/me/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kadirovkamoliddin_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kamoliddin-kadirov-b17563326?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkZqPMA4DR4CSNrvqrFaUhg%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kadirovkamoliddin24@gmail.com) 
 
