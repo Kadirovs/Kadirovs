@@ -11,17 +11,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Kadirovs&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadirovs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Kadirovs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kadirovs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h2>❤️ Support Me</h2>
-<p><p>
-<a href="https://www.buymeacoffee.com/Buy me a coffee.">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
-</a>
-</p>
-</p>
+
 
