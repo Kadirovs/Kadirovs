@@ -13,7 +13,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Kadirovs&theme=dark&hide_border=false)
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kadirovs/Kadirovs/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kadirovs/Kadirovs/output/snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kadirovs/Kadirovs/output/snake-light.svg" />
+</picture>
 
 
 
