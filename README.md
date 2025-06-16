@@ -1,6 +1,7 @@
-<h1>Hi 👋, I'm Just Kadirov</h1>
-<p>A passionate Back-end developer.</p>
-<h3>🚀 Languages and Tools I Use</h3>
+<h1>Hi 👋, I'm Just Kadirov's</h1>
+<p>A passionate Back-end developer</p>
+<h3>🚀 Languages and Tools I Use </h3>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/UjVfEkKY) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/me/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kadirovkamoliddin_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kamoliddin-kadirov-b17563326?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkZqPMA4DR4CSNrvqrFaUhg%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kadirovkamoliddin24@gmail.com) 
