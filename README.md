@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Just Kadirov</h1>
+<h1>Hi, I'm Just Kadirov</h1>
 <p>A passionate Back-end developer</p>
 <h3>🚀 Languages and Tools I Use </h3>
 
